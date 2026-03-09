@@ -17,7 +17,9 @@ I care about:
   https://github.com/yamada-ui/yamada-ui/pull/5944
 - ✅ Merged PR: **dapr/dapr-agents** — repository-wide 2026 Apache headers update  
   https://github.com/dapr/dapr-agents/pull/475
-- 🔧 Active contributor to ecosystem repos including Next.js, Yamada UI, and AgentField
+- 🆕 Open PR: **storybookjs/storybook** — fix actions addon limit behavior + immutability + docs/story updates  
+  https://github.com/storybookjs/storybook/pull/34081
+- 🔧 Active contributor to ecosystem repos including Next.js, Yamada UI, AgentField, and Storybook
 
 ## Selected projects
 - **Expenses (private product project)** — financial goals tracking + AI insights
